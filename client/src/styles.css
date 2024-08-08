@@ -1,0 +1,23 @@
+head, body{
+    font-family: Helvetica, Arial, sans-serif;
+}
+.header{
+    display: flex;
+    justify-items: baseline;
+    justify-content:space-between;
+    align-items: baseline;
+    padding-bottom: 7px;
+    border-bottom: 1px solid #646668;
+}
+
+.main-menu a{
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.login a{
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
