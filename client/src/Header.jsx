@@ -30,7 +30,12 @@ export default function Header(){
           <Nav className="me-auto">
             <Nav.Link as={NavLink} to="/">Home</Nav.Link>
             <Nav.Link as={NavLink} to="/catalog">Catalog</Nav.Link>
-            <Nav.Link as={NavLink} to="/contact">About</Nav.Link>
+            <Nav.Link as={NavLink} to="/about">About</Nav.Link>
+          </Nav>
+          <Nav className="me-auto">
+            <Nav.Link as={NavLink} to="/login">Login</Nav.Link>
+            <Nav.Link as={NavLink} to="/logout">Logout</Nav.Link>
+            <Nav.Link as={NavLink} to="/register">Register</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
