@@ -18,9 +18,9 @@
     text-align: center;
 }
 
-.allGames {
+.allBooks{
     background-color: #fff;
-    border-radius: 10px;
+    border-radius: 5px;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
     display: flex;
     max-width: 100%;
@@ -31,13 +31,13 @@
     height: auto;
 }
 
-.allGames-info {
+.allBooks-info {
     padding: 30px;
     position: relative;
     width: 100%;
 }
 
-.allGames-info>img {
+.allBooks-info>img {
     margin-top: -10px;
     border-radius: 50%;
     height: 140px;
@@ -49,13 +49,13 @@
     width: 140px;
 }
 
-.allGames-info>h6 {
+.allBooks-info>h6 {
     font-size: 20px;
     font-weight: 750;
     color: #161618;
 }
 
-.allGames-info>h2 {
+.allBooks-info>h2 {
     font-size: 20px;
     font-weight: 750;
     color: #161618;

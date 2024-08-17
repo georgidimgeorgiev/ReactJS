@@ -7,8 +7,8 @@ export default function BookListItem({
     imageUrl
 }){
     return(
-        <div className="allGames">
-            <div className="allGames-info">
+        <div className="allBooks">
+            <div className="allBooks-info">
                 <img src={imageUrl}/>
                 <h6>{category}</h6>
                 <h2>{title}</h2>

@@ -22,4 +22,17 @@ SoftUni React Cource Project
   - [x] Details link
   - [x] Details rout
   - [] Api function - get one
-- [] Home
+  - [] Comments
+- [x] Home latest games
+  ## 5. Comments (Advanced)
+  - [] Create service for nested resource `comments`
+  - [] Post comment to server
+  - [] Read comments from server
+  - [] Add comments in the component
+  - Clear form
+  ## 6. Authentication
+  - [] Auth API
+  - [] Auth state & context
+  - [] Login
+  - [] Register
+  - [] Logout

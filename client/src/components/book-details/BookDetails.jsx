@@ -11,8 +11,8 @@ export default function BookDetails(){
         (async() => {
             const result = await booksAPI.getOne(bookId);
             setBook(result);
-        })()
-    })
+        })();
+    }, [] );
     return(
         // <!--Details Page-->
         <section id="game-details">
