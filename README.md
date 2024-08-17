@@ -30,9 +30,15 @@ SoftUni React Cource Project
   - [] Read comments from server
   - [] Add comments in the component
   - Clear form
-  ## 6. Authentication
+  ## 6. API Hooks
+  - [] Book API Hooks
+  - [] Comment Hooks
+  - [] Form Hook
+  ## 7. Authentication
   - [] Auth API
   - [] Auth state & context
   - [] Login
   - [] Register
   - [] Logout
+  ## 8. UI Implementation
+  - [] Dynamic navigation
