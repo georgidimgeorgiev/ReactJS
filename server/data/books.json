@@ -1,12 +1,26 @@
 {
-    "books": {
-        "d953e5fb-a585-4d6b-92d3-ee90697398a0": {
-            "author": "J.K.Rowling",
-            "title": "Harry Potter and the Philosopher's Stone"
-        },
-        "d953e5fb-a585-4d6b-92d3-ee90697398a1": {
-            "author": "Svetlin Nakov",
-            "title": "C# Fundamentals"
-        }
+    "8358a9a2-497e-408b-bf08-7ef59c415e27": {
+        "author": "Al Sweigart",
+        "title": "Automate the Boring Stuff with Python",
+        "category": "Computers",
+        "imageUrl": "https://m.media-amazon.com/images/I/71uEI89mcpL._SL1500_.jpg",
+        "summary": "If you've ever spent hours renaming files or updating spreadsheet cells, you know how tedious tasks like these can be. But what if you could have your computer do them for you? Automate the Boring Stuff with Python, 2nd Edition teaches even the technically uninclined how to write programs that do in minutes what would take hours to do by hand—no prior coding experience required!",
+        "_id": "8358a9a2-497e-408b-bf08-7ef59c415e27"
+    },
+    "bd0d25bc-f20a-419b-babd-428b4e26a838": {
+        "author": "Svetlin Nakov",
+        "title": "Fundamentals of Computer Programming with C#",
+        "category": "Computers",
+        "imageUrl": "https://introprogramming.info/wp-content/uploads/2017/08/csharp-book-nakov-en-v2013-cover.jpg",
+        "summary": "Our book about C# programming starts with the fundamentals of programming: what a computer is, what a compiler is, what a development environment is, how .NET works, how C# works, what variables are, what the variable values are, what C# literals are, what primitive types of data are in C#, how to use operators, different types of operators in C#, how we can take out and insert data in the console, how to organize the programming logics through conditional constructions in C#, how to organize a repetitive execution programming fragments through cycle constructions, how to use arrays for storing a string of elements. The first steps in programming correspond to the first level of the “C# Fundamentals” course at the Software University (SoftUni), which is based on the C# book.",
+        "_id": "bd0d25bc-f20a-419b-babd-428b4e26a838"
+    },
+    "3ccf16eb-f061-47f0-ae02-84b6bdae471e": {
+        "author": "Eric Matthes",
+        "title": "Python Crash Course",
+        "category": "Computers",
+        "imageUrl": "https://m.media-amazon.com/images/I/81ZBWeKoZVL._SL1500_.jpg",
+        "summary": "You’ll start by learning basic programming concepts, such as variables, lists, classes, and loops, and practice writing clean code with exercises for each topic. You’ll also learn how to make your programs interactive and test your code safely before adding it to a project. You’ll put your new knowledge into practice by creating a Space Invaders–inspired arcade game, building a set of data visualizations with Python’s handy libraries, and deploying a simple application online.",
+        "_id": "3ccf16eb-f061-47f0-ae02-84b6bdae471e"
     }
 }

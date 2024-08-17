@@ -10,7 +10,7 @@ export default function Home(){
 
             <div className="welcome-message">
                 <h2>ALL new books are</h2>
-                <h3>Only in GamesPlay</h3>
+                <h3>Only in ReBookStore</h3>
             </div>
             <img src="./images/four_slider_img01.png" alt="hero"/>
 
