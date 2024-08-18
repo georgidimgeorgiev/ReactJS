@@ -31,11 +31,12 @@ SoftUni React Cource Project
   - [] Add comments in the component
   - Clear form
   ## 6. API Hooks
+  - [x] Form Hook
   - [] Book API Hooks
   - [] Comment Hooks
-  - [] Form Hook
   ## 7. Authentication
   - [] Auth API
+    - [] Login
   - [] Auth state & context
   - [] Login
   - [] Register
