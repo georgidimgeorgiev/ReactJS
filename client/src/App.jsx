@@ -11,13 +11,22 @@ import Login from './components/login/Login'
 import Logout from './components/logout/Logout'
 import Register from './components/register/Register'
 import BookDetails from './components/book-details/BookDetails'
+import { AuthContext } from './context/AuthContext'
 
 
 function App() {
-  const [count, setCount] = useState(0)
+  const[authState, setAuthState] = useState({});
+  const changeAuthState = (state) => {
+    setAuthState(state);
+  }
+
+  const contextData = {
+    email : authState.email,
+    accessToken : authState.accessToken
+  }
 
   return (
-    <>
+    <AuthContext.Provider value={contextData}>
        <Header />
 
        {/* Main Content */}
@@ -38,7 +47,7 @@ function App() {
           </Routes>
         </main>
 
-    </>
+    </AuthContext.Provider>
   )
 }
 

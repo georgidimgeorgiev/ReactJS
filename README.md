@@ -21,7 +21,7 @@ SoftUni React Cource Project
 - [] Details
   - [x] Details link
   - [x] Details rout
-  - [] Api function - get one
+  - [x] Api function - get one
   - [] Comments
 - [x] Home latest games
   ## 5. Comments (Advanced)
@@ -32,11 +32,11 @@ SoftUni React Cource Project
   - Clear form
   ## 6. API Hooks
   - [x] Form Hook
-  - [] Book API Hooks
+  - [x] Book API Hooks
   - [] Comment Hooks
   ## 7. Authentication
-  - [] Auth API
-    - [] Login
+  - [x] Auth API
+    - [x] Login
   - [] Auth state & context
   - [] Login
   - [] Register

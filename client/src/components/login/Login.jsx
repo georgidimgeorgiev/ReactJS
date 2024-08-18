@@ -6,10 +6,10 @@ export default function Login(){
     const login = useLogin();
     const navigate = useNavigate();
     const { values, changeHandler, submitHandler } = useForm(
-        {email: '', passord:' '}, 
-        async ({ email, passord }) => {
+        {email: '', password:' '}, 
+        async ({ email, password }) => {
             try{
-                await login(email, passord)
+                await login(email, password)
                 navigate('/');
             }
             catch(err){
@@ -40,7 +40,7 @@ export default function Login(){
                         type="password" 
                         id="login-password" 
                         name="password"
-                        values={values.passord}
+                        values={values.password}
                         onChange={changeHandler}
                      />
                     <input 

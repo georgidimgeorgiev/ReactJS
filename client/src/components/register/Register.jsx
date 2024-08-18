@@ -1,6 +1,5 @@
 export default function Register(){
     return(
-        // <!-- Register Page ( Only for Guest users ) -->
         <section id="register-page" className="content auth">
             <form id="register">
                 <div className="container">
